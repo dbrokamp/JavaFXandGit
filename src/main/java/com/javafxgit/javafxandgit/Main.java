@@ -1,4 +1,4 @@
-package com.javafxgit.javafxandgit.Model;
+package com.javafxgit.javafxandgit;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

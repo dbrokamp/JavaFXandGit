@@ -1,4 +1,4 @@
-package com.javafxgit.javafxandgit.Controller;
+package com.javafxgit.javafxandgit;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
